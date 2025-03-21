@@ -1,0 +1,3 @@
+C:/Users/vedaa/OneDrive/Neural Network XOR Gate/cmake-build-debug/CMakeFiles/Neural_Network.dir
+C:/Users/vedaa/OneDrive/Neural Network XOR Gate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vedaa/OneDrive/Neural Network XOR Gate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
